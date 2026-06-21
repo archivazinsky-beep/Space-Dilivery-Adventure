@@ -6,7 +6,7 @@ SFML 3 ,
 clang++
 
 Budowanie:
-Zapisz plik jako Space_Dilivery_Adventure.cpp
+Zapisz plik jako Space_Dilivery_Adventure.cpp \
 
 clang++ -std=c++17 Space_Dilivery_Adventure.cpp \
   -I/opt/homebrew/include \
