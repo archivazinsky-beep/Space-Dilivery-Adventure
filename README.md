@@ -7,6 +7,7 @@ clang++
 
 Budowanie:
 Zapisz plik jako Space_Dilivery_Adventure.cpp
+
 clang++ -std=c++17 Space_Dilivery_Adventure.cpp \
   -I/opt/homebrew/include \
   -L/opt/homebrew/lib \
